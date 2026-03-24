@@ -33,7 +33,7 @@ export interface TransportOption {
 }
 
 export interface Location {
-  id: number;
+  id: string;
   name: string;
   category: LocationCategory;
   shortDescription: string;

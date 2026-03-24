@@ -1,0 +1,864 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "name": "Plage de Charrana",
+      "category": "beaches",
+      "shortDescription": "La plage la plus populaire de Nador, réputée pour ses eaux claires et son sable doré.",
+      "description": "Charrana est la plage emblématique de Nador, s'étendant sur plusieurs kilomètres le long de la côte méditerranéenne. Ses eaux turquoise et son sable fin en font une destination incontournable pour les familles et les touristes. On y trouve une promenade animée, de nombreux cafés et restaurants, ainsi que des activités nautiques comme le jet-ski et la planche à voile.",
+      "images": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+        "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
+        "https://images.unsplash.com/photo-1473177104440-ffee2f376098?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "06:00",
+          "to": "23:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "06:00",
+          "to": "23:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        }
+      },
+      "pricing": "Accès libre",
+      "address": "Boulevard de la Plage, Nador 62000",
+      "transport": [
+        {
+          "type": "bus",
+          "details": "Ligne 3 — arrêt Plage Charrana"
+        },
+        {
+          "type": "taxi",
+          "details": "Taxis disponibles depuis le centre-ville (10 min)"
+        },
+        {
+          "type": "parking",
+          "details": "Grand parking public gratuit sur place"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-10T09:00:00.000Z",
+      "updatedAt": "2024-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Lagune de Marchica",
+      "category": "natural_sites",
+      "shortDescription": "Un joyau naturel de 25 km², l'une des plus grandes lagunes du bassin méditerranéen.",
+      "description": "La lagune de Marchica est un trésor écologique d'une superficie de 25 km², séparant la mer Méditerranée par un cordon littoral naturel. Classée comme réserve naturelle, elle abrite une biodiversité exceptionnelle avec plus de 200 espèces d'oiseaux. La lagune est au centre d'un vaste projet de développement touristique durable qui inclut des promenades en bateau, des activités de plongée et des circuits écotouristiques.",
+      "images": [
+        "https://images.unsplash.com/photo-1566438480900-0609be27a4be?w=800",
+        "https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=800",
+        "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "08:00",
+          "to": "19:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "08:00",
+          "to": "19:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "09:00",
+          "to": "17:00"
+        }
+      },
+      "pricing": "Promenade en bateau : 50 MAD / personne",
+      "address": "Lagune de Marchica, Route Côtière, Nador",
+      "transport": [
+        {
+          "type": "car",
+          "details": "À 5 km du centre-ville de Nador par la route côtière"
+        },
+        {
+          "type": "taxi",
+          "details": "Taxis disponibles depuis la Place Administrative (15 min)"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-12T10:00:00.000Z",
+      "updatedAt": "2024-01-12T10:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Mont Gourougou",
+      "category": "natural_sites",
+      "shortDescription": "Le sommet emblématique dominant Nador à 893 m, offrant un panorama exceptionnel sur la mer et la lagune.",
+      "description": "Le mont Gourougou, culminant à 893 mètres d'altitude, est l'élément géographique le plus emblématique de la région de Nador. Du sommet, le visiteur bénéficie d'un panorama à 360° sur la mer Méditerranée, la lagune de Marchica, la ville de Nador et les côtes espagnoles par temps clair. La montagne est aussi riche d'une flore méditerranéenne dense avec des pins, des chênes-lièges et une faune diversifiée.",
+      "images": [
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
+        "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800",
+        "https://images.unsplash.com/photo-1476611338391-6f395a0dd82e?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "06:00",
+          "to": "20:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "06:00",
+          "to": "20:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "06:00",
+          "to": "20:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "06:00",
+          "to": "20:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "06:00",
+          "to": "20:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "06:00",
+          "to": "20:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "06:00",
+          "to": "20:00"
+        }
+      },
+      "pricing": "Accès libre",
+      "address": "Mont Gourougou, Province de Nador",
+      "transport": [
+        {
+          "type": "car",
+          "details": "Route accessible en voiture jusqu'à mi-pente, puis randonnée à pied (1h30)"
+        },
+        {
+          "type": "taxi",
+          "details": "Grand taxi depuis Nador centre (20 min)"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-15T08:00:00.000Z",
+      "updatedAt": "2024-01-15T08:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Souk Central de Nador",
+      "category": "shopping",
+      "shortDescription": "Le grand marché traditionnel de Nador, cœur commercial et culturel de la ville depuis des générations.",
+      "description": "Le Souk Central de Nador est bien plus qu'un marché — c'est l'âme commerciale et sociale de la ville. On y trouve des épices Rif, des tissages Amazigh, des poteries artisanales, des vêtements traditionnels et une multitude de produits locaux. L'atmosphère colorée et animée offre une immersion authentique dans la culture berbère de la région. Le souk hebdomadaire du dimanche est particulièrement animé.",
+      "images": [
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800",
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "08:00",
+          "to": "21:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "08:00",
+          "to": "21:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "08:00",
+          "to": "21:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "08:00",
+          "to": "21:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "08:00",
+          "to": "13:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "08:00",
+          "to": "21:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        }
+      },
+      "pricing": "Accès libre",
+      "address": "Centre-ville, Nador 62000",
+      "transport": [
+        {
+          "type": "bus",
+          "details": "Lignes 1, 2 et 5 — arrêt Souk Central"
+        },
+        {
+          "type": "parking",
+          "details": "Parking payant à proximité (2 MAD/heure)"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-18T09:00:00.000Z",
+      "updatedAt": "2024-01-18T09:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Restaurant Al Bahar",
+      "category": "restaurants",
+      "shortDescription": "Restaurant de fruits de mer réputé avec vue directe sur la Méditerranée et spécialités Rif.",
+      "description": "Al Bahar est l'une des tables les plus appréciées de Nador, spécialisée dans les fruits de mer frais pêchés chaque matin. Le restaurant dispose d'une terrasse panoramique offrant une vue imprenable sur la mer Méditerranée. La carte met à l'honneur les spécialités culinaires de la région : tajine de poisson à la sauce chermoula, couscous aux sept légumes, pastilla au poisson et grillades de fruits de mer.",
+      "images": [
+        "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+        "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "12:00",
+          "to": "23:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "12:00",
+          "to": "23:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "12:00",
+          "to": "23:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "12:00",
+          "to": "23:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "12:00",
+          "to": "00:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "12:00",
+          "to": "00:00"
+        },
+        "sunday": {
+          "open": false,
+          "from": "",
+          "to": ""
+        }
+      },
+      "pricing": "Menu déjeuner : 80–120 MAD | Menu dîner : 150–250 MAD",
+      "address": "Boulevard Mohammed V, Front de Mer, Nador",
+      "transport": [
+        {
+          "type": "taxi",
+          "details": "10 min depuis le centre-ville"
+        },
+        {
+          "type": "parking",
+          "details": "Parking de rue disponible en soirée"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-20T11:00:00.000Z",
+      "updatedAt": "2024-01-20T11:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Hôtel Rif Beach Resort",
+      "category": "hotels",
+      "shortDescription": "Hôtel 4 étoiles en bord de mer alliant confort moderne et architecture influencée par la culture Amazigh.",
+      "description": "Le Rif Beach Resort est l'établissement hôtelier phare de Nador, situé directement sur le front de mer avec accès privé à la plage. Ses 120 chambres et suites sont décorées dans un style fusion entre modernité et artisanat Amazigh. L'hôtel propose une piscine à débordement, un spa, deux restaurants et un rooftop bar avec vue panoramique. Idéal pour un séjour balnéaire de qualité.",
+      "images": [
+        "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800",
+        "https://images.unsplash.com/photo-1455587734955-081b22074882?w=800",
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "thursday": {
+          "open": true,
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "friday": {
+          "open": true,
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "saturday": {
+          "open": true,
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "sunday": {
+          "open": true,
+          "from": "00:00",
+          "to": "23:59"
+        }
+      },
+      "pricing": "À partir de 800 MAD / nuit en chambre double",
+      "address": "Route Côtière de Charrana, Nador 62000",
+      "transport": [
+        {
+          "type": "bus",
+          "details": "Navette privée depuis la gare routière (sur réservation)"
+        },
+        {
+          "type": "parking",
+          "details": "Parking privé et sécurisé gratuit pour les clients"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-22T08:00:00.000Z",
+      "updatedAt": "2024-01-22T08:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Café Amazigh",
+      "category": "cafes",
+      "shortDescription": "Café traditionnel au cœur de la médina, connu pour son thé à la menthe et ses pâtisseries Rif.",
+      "description": "Le Café Amazigh est une institution de la vie sociale nadorienne. Installé dans un riad rénové au cœur de la vieille ville, il propose un décor authentique en zellige et bois sculpté. La maison est réputée pour son thé à la menthe préparé à la manière traditionnelle Rif, ses pâtisseries maison (cornes de gazelle, sfenj, baghrir) et son atmosphère chaleureuse où se retrouvent habitants et voyageurs.",
+      "images": [
+        "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?w=800",
+        "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=800",
+        "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "07:00",
+          "to": "23:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "07:00",
+          "to": "23:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "07:00",
+          "to": "23:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "07:00",
+          "to": "23:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "07:00",
+          "to": "00:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "07:00",
+          "to": "00:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "08:00",
+          "to": "22:00"
+        }
+      },
+      "pricing": "Thé à la menthe : 8 MAD | Café : 10 MAD | Pâtisseries : 5–15 MAD",
+      "address": "Derb El Hana, Médina de Nador",
+      "transport": [
+        {
+          "type": "bus",
+          "details": "Ligne 2 — arrêt Médina"
+        },
+        {
+          "type": "taxi",
+          "details": "5 min depuis le centre-ville"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-25T10:00:00.000Z",
+      "updatedAt": "2024-01-25T10:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Musée des Arts et Traditions Amazigh",
+      "category": "museums",
+      "shortDescription": "Un musée dédié à la richesse culturelle Amazigh du Rif, avec collections de tissages, bijoux et outils anciens.",
+      "description": "Le Musée des Arts et Traditions Amazigh de Nador est un espace culturel essentiel pour comprendre l'identité Rif. Réparti sur deux niveaux, il présente une collection permanente de plus de 2 000 objets : tapis et tissages berbères, bijoux en argent traditionnels, costumes de cérémonie, poteries, instruments de musique et outils agricoles ancestraux. Des expositions temporaires accueillent régulièrement des artistes contemporains de la région.",
+      "images": [
+        "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=800",
+        "https://images.unsplash.com/photo-1566127992631-137a642a90f4?w=800",
+        "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": false,
+          "from": "",
+          "to": ""
+        },
+        "tuesday": {
+          "open": true,
+          "from": "09:00",
+          "to": "17:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "09:00",
+          "to": "17:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "09:00",
+          "to": "17:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "09:00",
+          "to": "12:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "09:00",
+          "to": "18:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "10:00",
+          "to": "16:00"
+        }
+      },
+      "pricing": "Adultes : 20 MAD | Étudiants : 10 MAD | Enfants (−12 ans) : Gratuit",
+      "address": "Avenue Hassan II, Nador 62000",
+      "transport": [
+        {
+          "type": "bus",
+          "details": "Lignes 1 et 4 — arrêt Hassan II"
+        },
+        {
+          "type": "parking",
+          "details": "Parking municipal à 100 m"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-01-28T09:00:00.000Z",
+      "updatedAt": "2024-01-28T09:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Plage de Boukana",
+      "category": "beaches",
+      "shortDescription": "Une plage sauvage préservée à 10 km de Nador, appréciée pour son calme et ses eaux cristallines.",
+      "description": "Boukana est la plage de prédilection des habitants de Nador qui cherchent un endroit plus calme que Charrana. Moins fréquentée, elle est réputée pour ses eaux particulièrement propres et transparentes. La plage est bordée de falaises ocre qui créent un contraste saisissant avec le bleu de la mer. Idéale pour la plongée en apnée, la pêche à la ligne et les pique-niques en famille.",
+      "images": [
+        "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800",
+        "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800",
+        "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "06:00",
+          "to": "21:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "06:00",
+          "to": "21:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "06:00",
+          "to": "21:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "06:00",
+          "to": "21:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "06:00",
+          "to": "22:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "06:00",
+          "to": "21:00"
+        }
+      },
+      "pricing": "Accès libre",
+      "address": "Route Côtière, Boukana, 10 km de Nador",
+      "transport": [
+        {
+          "type": "car",
+          "details": "10 km depuis le centre de Nador par la N2"
+        },
+        {
+          "type": "taxi",
+          "details": "Grand taxi depuis Place Administrative (20 min)"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-02-01T08:00:00.000Z",
+      "updatedAt": "2024-02-01T08:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Mausolée Sidi Abdelkader",
+      "category": "monuments",
+      "shortDescription": "Monument historique et lieu de pèlerinage emblématique, témoin de l'histoire spirituelle de Nador.",
+      "description": "Le mausolée de Sidi Abdelkader est un monument à la fois historique et spirituel, vénéré par les habitants de Nador depuis des siècles. Perché sur une colline dominant la ville, il offre une vue panoramique et représente un exemple remarquable de l'architecture religieuse du Rif : koubba blanche à dôme vert, zellige et mosaïques traditionnelles. Les visiteurs sont invités à respecter les pratiques religieuses locales.",
+      "images": [
+        "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800",
+        "https://images.unsplash.com/photo-1548013146-72479768bada?w=800",
+        "https://images.unsplash.com/photo-1585135497273-1a86b09fe70e?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "08:00",
+          "to": "20:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "08:00",
+          "to": "18:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "09:00",
+          "to": "17:00"
+        }
+      },
+      "pricing": "Accès libre (tenue correcte exigée)",
+      "address": "Colline de Sidi Abdelkader, Nador",
+      "transport": [
+        {
+          "type": "taxi",
+          "details": "5 min depuis le centre-ville"
+        },
+        {
+          "type": "bus",
+          "details": "Ligne 4 — arrêt Sidi Abdelkader"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-02-05T09:00:00.000Z",
+      "updatedAt": "2024-02-05T09:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "name": "Parc de Loisirs Al Kods",
+      "category": "leisure",
+      "shortDescription": "Le grand espace de loisirs de Nador avec manèges, aires de jeux et spectacles pour toute la famille.",
+      "description": "Le Parc de Loisirs Al Kods est le principal espace de divertissement familial de Nador. Sur une superficie de 5 hectares, il propose des manèges pour enfants et adultes, des aires de pique-nique ombragées, un mini-golf, des restaurants et des animations le week-end. Un espace vert bienvenu au cœur de la ville, idéal pour se détendre en famille ou entre amis.",
+      "images": [
+        "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=800",
+        "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=800",
+        "https://images.unsplash.com/photo-1575783970733-1aaedde1db74?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": false,
+          "from": "",
+          "to": ""
+        },
+        "tuesday": {
+          "open": true,
+          "from": "14:00",
+          "to": "22:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "14:00",
+          "to": "22:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "14:00",
+          "to": "22:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "14:00",
+          "to": "23:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "10:00",
+          "to": "23:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "10:00",
+          "to": "22:00"
+        }
+      },
+      "pricing": "Entrée : 15 MAD | Manèges : 10–30 MAD / attraction",
+      "address": "Avenue Al Massira, Nador 62000",
+      "transport": [
+        {
+          "type": "bus",
+          "details": "Lignes 2 et 6 — arrêt Al Massira"
+        },
+        {
+          "type": "parking",
+          "details": "Parking gratuit sur place (200 places)"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-02-08T10:00:00.000Z",
+      "updatedAt": "2024-02-08T10:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "name": "Centre Artisanal de Nador",
+      "category": "shopping",
+      "shortDescription": "Espace dédié à l'artisanat local Rif : poterie, tissage, broderie et bijoux Amazigh faits main.",
+      "description": "Le Centre Artisanal de Nador est le lieu incontournable pour découvrir et acquérir l'artisanat authentique de la région du Rif. Géré par une coopérative d'artisans locaux, il rassemble dans un même espace des potiers, tisserands, brodeurs et bijoutiers. Chaque objet est fabriqué à la main selon des techniques transmises de génération en génération. Le centre organise également des ateliers de découverte ouverts aux visiteurs.",
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+        "https://images.unsplash.com/photo-1464375117522-1311d6a5b81f?w=800",
+        "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?w=800"
+      ],
+      "hours": {
+        "monday": {
+          "open": true,
+          "from": "09:00",
+          "to": "18:00"
+        },
+        "tuesday": {
+          "open": true,
+          "from": "09:00",
+          "to": "18:00"
+        },
+        "wednesday": {
+          "open": true,
+          "from": "09:00",
+          "to": "18:00"
+        },
+        "thursday": {
+          "open": true,
+          "from": "09:00",
+          "to": "18:00"
+        },
+        "friday": {
+          "open": true,
+          "from": "09:00",
+          "to": "12:00"
+        },
+        "saturday": {
+          "open": true,
+          "from": "09:00",
+          "to": "19:00"
+        },
+        "sunday": {
+          "open": true,
+          "from": "",
+          "to": ""
+        }
+      },
+      "pricing": "Accès libre — Atelier découverte : 50 MAD / personne",
+      "address": "Rue de l'Artisanat, Quartier Administratif, Nador",
+      "transport": [
+        {
+          "type": "bus",
+          "details": "Ligne 3 — arrêt Quartier Administratif"
+        },
+        {
+          "type": "parking",
+          "details": "Parking public à 200 m"
+        }
+      ],
+      "status": "active",
+      "createdAt": "2024-02-10T09:00:00.000Z",
+      "updatedAt": "2026-02-28T16:19:24.523Z"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": "1",
+      "firstName": "Sophie",
+      "email": "sophie.martin@example.com",
+      "subscribedAt": "2025-11-15T14:30:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "2",
+      "firstName": "Karim",
+      "email": "karim.benali@example.com",
+      "subscribedAt": "2025-12-02T09:15:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "3",
+      "firstName": "Laura",
+      "email": "laura.costa@example.com",
+      "subscribedAt": "2026-01-08T11:00:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "4",
+      "firstName": "Youssef",
+      "email": "youssef.ait@example.com",
+      "subscribedAt": "2026-01-20T16:45:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "5",
+      "firstName": "Emma",
+      "email": "emma.dupont@example.com",
+      "subscribedAt": "2026-02-01T10:20:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "fa31",
+      "email": "lahcenwirghanec11@gmail.com",
+      "firstName": "lahcen ouirghane",
+      "subscribedAt": "2026-02-21T21:20:52.080Z",
+      "status": "active"
+    },
+    {
+      "id": "74f4",
+      "email": "ayouboumha06@gmail.com",
+      "firstName": "ayoub oumha",
+      "subscribedAt": "2026-02-28T16:43:11.274Z",
+      "status": "inactive"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Festival de la Lagune de Marchica",
+      "date": "2026-04-15",
+      "location": "Lagune de Marchica, Nador",
+      "description": "La 5ème édition du Festival de la Lagune réunit artistes locaux, expositions de photographes et animations nautiques sur les eaux de la plus belle lagune méditerranéenne. Entrée libre, programme en continu de 10h à 22h.",
+      "status": "active",
+      "createdAt": "2026-02-01T09:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Journées du Patrimoine Amazigh",
+      "date": "2026-05-03",
+      "location": "Musée des Arts et Traditions Amazigh, Nador",
+      "description": "Trois jours de célébration de la culture Amazigh du Rif : démonstrations d'artisanat, contes traditionnels, concerts de musique Rif, expositions temporaires et ateliers pour enfants. Entrée offerte pour les résidents de Nador.",
+      "status": "active",
+      "createdAt": "2026-02-05T10:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Fête de la Mer — Nador",
+      "date": "2026-07-20",
+      "location": "Plage de Charrana, Nador",
+      "description": "La grande fête estivale de Nador : concours de surf, tournois de beach-volley, concerts en plein air, feux d'artifice et marché nocturne. L'événement le plus attendu de l'été méditerranéen.",
+      "status": "active",
+      "createdAt": "2026-02-10T11:00:00.000Z"
+    },
+    {
+      "id": "c2eb",
+      "title": "Sit neque aut minima",
+      "date": "1987-09-21",
+      "location": "Ex eiusmod ad perspi",
+      "description": "Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab Dolor amet explicab ",
+      "status": "inactive",
+      "createdAt": "2026-03-04T10:53:01.920Z"
+    }
+  ]
+}
